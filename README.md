@@ -41,4 +41,4 @@ This project demonstrates the application of machine learning in fraud detection
 
 ---
 
-You can adjust the formatting as needed based on the platform you're using for the README (like GitHub, Jupyter Notebook, etc.).
+
